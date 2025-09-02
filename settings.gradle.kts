@@ -19,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "mygragment"
+rootProject.name = "Personal Finanace Management App"
 include(":app")
